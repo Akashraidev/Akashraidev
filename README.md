@@ -4,12 +4,12 @@ preview
 
 <p align="left"> <a href="https://twitter.com/akash_rai_1314" target="blank"><img src="https://img.shields.io/twitter/follow/akash_rai_1314?logo=twitter&style=for-the-badge" alt="akash_rai_1314" /></a> </p>
 
-- 🌱 I’m currently learning **php and core java**
+- 🌱 I’m currently learning **php,laravel and core java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akash_rai_1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_rai_1314" height="30" width="40" /></a>
-<a href="[www.linkedin.com/in/akash-rai1314/](https://www.linkedin.com/in/akash-rai1314/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-rai1314/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-rai1314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-rai1314/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
